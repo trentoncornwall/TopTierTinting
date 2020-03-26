@@ -1,0 +1,39 @@
+{
+  "queryString": "",
+  "postData": {
+    "contents": "token=HCs45cIVTi2kRtC2EEuje96s&team_id=T06DU4APK&team_domain=kayak&channel_id=G010RAJ6GKZ&channel_name=privategroup&user_id=UGJBT2PC6&user_name=tcornwall&command=%2Frecord&text=&response_url=https%3A%2F%2Fhooks.slack.com%2Fcommands%2FT06DU4APK%2F1013669667297%2FV07SKEb9wgrXReLkkiXWTBhD&trigger_id=1023427458533.6470146801.42c2d9a06c7e66d3e99377e83619e0f2",
+    "length": 355,
+    "name": "postData",
+    "type": "application/x-www-form-urlencoded"
+  },
+  "parameters": {
+    "token": ["HCs45cIVTi2kRtC2EEuje96s"],
+    "channel_id": ["G010RAJ6GKZ"],
+    "team_domain": ["kayak"],
+    "response_url": [
+      "https://hooks.slack.com/commands/T06DU4APK/1013669667297/V07SKEb9wgrXReLkkiXWTBhD"
+    ],
+    "command": ["/record"],
+    "trigger_id": ["1023427458533.6470146801.42c2d9a06c7e66d3e99377e83619e0f2"],
+    "channel_name": ["privategroup"],
+    "team_id": ["T06DU4APK"],
+    "user_name": ["tcornwall"],
+    "text": [""],
+    "user_id": ["UGJBT2PC6"]
+  },
+  "contextPath": "",
+  "contentLength": 355,
+  "parameter": {
+    "channel_id": "G010RAJ6GKZ",
+    "team_domain": "kayak",
+    "response_url": "https://hooks.slack.com/commands/T06DU4APK/1013669667297/V07SKEb9wgrXReLkkiXWTBhD",
+    "command": "/record",
+    "team_id": "T06DU4APK",
+    "channel_name": "privategroup",
+    "trigger_id": "1023427458533.6470146801.42c2d9a06c7e66d3e99377e83619e0f2",
+    "user_name": "tcornwall",
+    "text": "",
+    "user_id": "UGJBT2PC6",
+    "token": "HCs45cIVTi2kRtC2EEuje96s"
+  }
+}
