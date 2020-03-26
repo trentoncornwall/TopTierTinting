@@ -4,13 +4,20 @@ body {
   font-size: 24px;
 }
 
+main {
+  margin-top: 0px;
+}
+
 nav {
   margin-bottom: 10px;
 }
 
-nav ul li a {
-  color: white;
+hr {
+  margin: 3rem;
 }
+/* nav ul li a {
+  color: white;
+} */
 
 h1 {
   font-size: 48px;
