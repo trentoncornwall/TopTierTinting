@@ -32,6 +32,9 @@ figcaption {
   text-align: center;
 }
 
+.photo {
+  border-radius: 5px;
+}
 .icon {
   height: 75px;
 }
