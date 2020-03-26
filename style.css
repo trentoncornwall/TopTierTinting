@@ -49,3 +49,11 @@ aside {
   justify-content: space-evenly;
   align-items: center;
 }
+
+.modal {
+  max-width: 800px !important;
+}
+
+.photomodal {
+  max-width: 750px;
+}
