@@ -15,9 +15,6 @@ nav {
 hr {
   margin: 3rem;
 }
-/* nav ul li a {
-  color: white;
-} */
 
 h1 {
   font-size: 48px;
@@ -33,6 +30,14 @@ h3 {
 
 figcaption {
   text-align: center;
+}
+
+.banner {
+  border: 1px solid #ebc65e;
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow) var(--color-shadow);
+  margin: 1rem;
+  padding: 1.25rem;
 }
 
 .photo {
@@ -70,5 +75,6 @@ aside {
 }
 
 .service span {
-  color: rgb(24, 147, 24);
+  font-size: 22px;
+  color: rgb(94, 138, 94);
 }
