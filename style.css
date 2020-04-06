@@ -58,6 +58,10 @@ aside {
   align-items: center;
 }
 
+form {
+  border-color: #ebc65e;
+}
+
 .modal {
   max-width: 800px !important;
 }
