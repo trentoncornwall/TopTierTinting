@@ -32,6 +32,12 @@ figcaption {
   text-align: center;
 }
 
+.services {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .banner {
   border: 1px solid #ebc65e;
   border-radius: var(--border-radius);
@@ -58,10 +64,6 @@ aside {
   align-items: center;
 }
 
-form {
-  border-color: #ebc65e;
-}
-
 .modal {
   max-width: 800px !important;
 }
@@ -74,11 +76,14 @@ form {
   flex-direction: column;
 }
 
-.service p {
-  font-size: 20px;
+footer {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
 }
 
-.service span {
-  font-size: 22px;
-  color: rgb(94, 138, 94);
+footer h2,
+h3 {
+  margin-right: 16px;
+  font-size: 14px;
 }
